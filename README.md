@@ -4,8 +4,8 @@ Welcome to Travel Planner AI, your ultimate travel companion designed to simplif
 
 Key Functional Features
 
-Top Spots Unveiled: Discover hidden gems and popular attractions effortlessly.
-Tailored Itineraries: Plan your days seamlessly with custom-tailored schedules.
+Top Spots Unveiled: Discover hidden gems and popular attractions effortlessly. \br
+Tailored Itineraries: Plan your days seamlessly with custom-tailored schedules. \br
 Optimal Timing: Learn the best time to visit your destinations for an unparalleled experience.
 Foodie Hotspots: Indulge in culinary delights with recommendations from local experts.
 Prime Experiences: Immerse yourself in unforgettable moments curated just for you.
